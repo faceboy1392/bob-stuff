@@ -4,11 +4,13 @@ If you didn't previously know about Bob Bot and were sent here to learn about hi
 
 Basically, Bob is a Discord bot that is built to do a large variety of things while (hopefully) making servers a little extra cheerful. I'm developing him as just an interesting ongoing project that helps me improve my skills. He does not need any premium version, and all the features he has are unlocked by default.
 
+Bob has an official Discord server where you can ask any questions, get any help, suggest any features or provide any feedback. You do not have to join, but it would be quite helpful for the development process.
+
+At the moment, Bob's invite link is not public. Bob is in a quite experimental state and needs some more development before I can let him go in the wild. However, you can request an invite link from me directly. You can join Bob's Discord server and ask me (faceboy#1392) for the link. Just note that I do want to be present in your server to observe how Bob is being used, to provide assistance, and to investigate in case I get any unexpected errors.
+
 Bob is coded in JavaScript with the Discord.js library, and is currently hosted on my own PC. Note that this means there may be some periods of downtime, though I do intend to get a proper hosting service at some point. Luckily, my PC is fairly powerful and I keep it turned on a lot.
 
 Bob is not open source, just because Im too lazy to commit every change, lol. Plus, my code does not set a very good example for others.
-
-At the moment, Bob's invite link is not public. Currently, Bob is in a quite experimental state and needs some more development before I can let him go in the wild. However, you can request an invite link from me. You can join Bob's Discord server (https://discord.gg/33Aw6gWmmV) and ask me (faceboy#1392) for an invite link. Just note that I do want to be present in your server to observe how Bob is being used, to provide assistance, and to investigate in case I get any unexpected errors.
 
 -----[ Basic Usage ]-----
 
@@ -43,4 +45,4 @@ The -help command has a number of uses. The basic usage of it is "-help ["catego
 
 "-permissions" lets you see the permissions of yourself or any other user in any particular channel.
 
-"-cat" just lets you see a randomly chosen cute cat picture. There are a lot of cat pictures to see. This is by far the most important command in the history of Discord bots.
+"-cat" sends a random cute cate image. That's all. You're welcome.
