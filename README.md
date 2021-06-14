@@ -14,20 +14,20 @@ Bob is not open source, just because Im too lazy to commit every change, lol. Pl
 
 -----[ Basic Usage ]-----
 
-<Prefix>
+[Prefix]
 
 First of all, Bob's default prefix is a dash "-", however you can set your own custom prefix in a server using the command "-prefix <new prefix>"
 You can also @ Bob at the beginning of a message as a prefix in case you ever forget what prefix is set.
 
-<Arguments>
+[Arguments]
 
 A lot of commands have "arguments", which are extra pieces of information that you provide when you use a command.
-You can see what arguments (if any) a command needs by typing "-help <command name>" <- That right there is an argument.
+You can see what arguments (if any) a command needs by typing "-help \<command name>" <- That right there is an argument.
 
 Argument names surrounded in angle brackets <> signify that the argument is required, and the command cannot function without it.
 Argument names surrounded in square brackets [] mean that the argument is optional for that command, and can be ommited. This will change what the command outputs.
 
-<Basic commands>
+[Basic commands]
 
 The -help command has a number of uses. The basic usage of it is "-help ["categories"/category name/command name]", which may be a bit long but it can help you learn about any command. I recommend using it to learn about any command you may have questions about, including the ones below.
 
