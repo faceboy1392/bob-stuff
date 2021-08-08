@@ -16,6 +16,7 @@ Bob's default prefix is a dash `-`, but administrators or managers can change th
 An argument is an extra piece of information you provide for a command. Some commands don't have arguments, some have optional ones, some have required ones, and some have both.
 
 `<argument>` - A required argument, the command will not work without it.
+
 `[argument]` - An optional argument, the command will work without it but will function differently.
 
 Some commands may specifically ask for certain pieces of information after using the command. When a command requests some information, you do not need to use Bob's prefix when responding. If you do, it's probably just gonna cause problems if it happens to trigger an actual command.
