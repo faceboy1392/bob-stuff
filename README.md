@@ -1,6 +1,6 @@
 # Bob Bot Guide
 
-First of all, if there is question that you have that is not explained here, it is recommended to join [Bob's Discord server](https://discord.gg/33Aw6gWmmV) and ask your question there. You can also keep up to date with Bob's newest updaets and keep track of 
+First of all, if there is question that you have that is not explained here, it is recommended to join [Bob's Discord server](https://discord.gg/33Aw6gWmmV) and ask your question there. You can also keep up to date with Bob's newest updates and keep track of 
 downtime there. 
 ### Overview
 
